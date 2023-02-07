@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kaviy
+ *
+ */
+module customer {
+}

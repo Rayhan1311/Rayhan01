@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\kaviy\eclipse-workspace\hello world\.metadata\.plugins\org.eclipse.jdt.core
+2827809671.index
+4130227330.index
+3173446325.index
+2736318078.index
+885173098.index
+1865797976.index
+1920560960.index

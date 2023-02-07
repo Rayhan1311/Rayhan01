@@ -1,0 +1,23 @@
+package org.sample;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class SeleniumTest {
+	public static void main(String[] args) {
+		WebDriver r=new ChromeDriver();
+		
+		r.get("https://en-gb.facebook.com/");
+		
+		r.manage().window().maximize();
+		
+		//Using getText method
+		
+		WebElement text = r.findElement(By.xpath("//h2[text()='Facebook helps you connect and share with the people in your life"));
+	
+
+}
+	
+}
